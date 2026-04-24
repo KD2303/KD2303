@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Krish Dargar 👋</h1>
+<h1 align="center">Hey, I'm Krish Dargar</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&center=true&lines=CS+%26+Design+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
