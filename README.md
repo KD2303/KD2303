@@ -18,17 +18,19 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Link |
-|---|---|---|
-| ⚔️ **AlgoFight** | Real-time competitive coding platform with Elo leaderboards | [Live](https://algo-fight.vercel.app/) |
-| 🗺️ **CBCT** | Visualizes codebases as interactive dependency maps | [Live](https://cbct-code-base-cartographic-tool-cl.vercel.app/) |
-| 🛡️ **Guardian AI** | AI-powered security web app built & deployed at a hackathon | [Live](https://guardian-ai-one.vercel.app/) |
-| 🤖 **IARIS** | AI-powered project/platform solution | [Live](https://iaris.vercel.app/) |
-| 🌟 **SkillFlare** | Skill development and growth platform | [Live](https://skillflare-delta.vercel.app/) |
-| 🏛️ **CID Cell** | Institute project for MITS Gwalior | [Live](https://cidcell.mitsgwalior.in/) |
-| ⚙️ **GearGuard** | Ultimate vehicle maintenance tracker | [GitHub](https://github.com/KD2303/GearGuard-The-Ultimate-Maintenance-Tracker) |
+<div align="center">
 
----
+| Project | Description | Link |
+|:---:|:---:|:---:|
+| ⚔️ **AlgoFight** | Real-time competitive coding platform with Elo leaderboards | <a href="https://algo-fight.vercel.app/">Live</a> |
+| 🗺️ **CBCT** | Visualizes codebases as interactive dependency maps | <a href="https://cbct-code-base-cartographic-tool-cl.vercel.app/">Live</a> |
+| 🛡️ **Guardian AI** | AI-powered security web app built & deployed at a hackathon | <a href="https://guardian-ai-one.vercel.app/">Live</a> |
+| 🤖 **IARIS** | AI-powered project/platform solution | <a href="https://iaris.vercel.app/">Live</a> |
+| 🌟 **SkillFlare** | Skill development and growth platform | <a href="https://skillflare-delta.vercel.app/">Live</a> |
+| 🏛️ **CID Cell** | Institute project for MITS Gwalior | <a href="https://cidcell.mitsgwalior.in/">Live</a> |
+| ⚙️ **GearGuard** | Ultimate vehicle maintenance tracker | <a href="https://github.com/KD2303/GearGuard-The-Ultimate-Maintenance-Tracker">GitHub</a> |
+
+</div>
 
 ## 📊 GitHub Stats
 
