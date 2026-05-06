@@ -20,13 +20,17 @@
 
 | Project | Description | Link |
 |---|---|---|
-| ⚔️ **AlgoFight** | Real-time competitive coding platform with Elo leaderboards | [GitHub](https://github.com/KD2303/Algo-Fight) |
+| ⚔️ **AlgoFight** | Real-time competitive coding platform with Elo leaderboards | [Live](https://algo-fight.vercel.app/) |
 | 🗺️ **CBCT** | Visualizes codebases as interactive dependency maps | [Live](https://cbct-code-base-cartographic-tool-cl.vercel.app/) |
-| 🛡️ **Guardian AI** | AI-powered web app built & deployed at a hackathon | [Live](https://guardian-ai-one.vercel.app/) |
+| 🛡️ **Guardian AI** | AI-powered security web app built & deployed at a hackathon | [Live](https://guardian-ai-one.vercel.app/) |
+| 🤖 **IARIS** | AI-powered project/platform solution | [Live](https://iaris.vercel.app/) |
+| 🌟 **SkillFlare** | Skill development and growth platform | [Live](https://skillflare-delta.vercel.app/) |
+| 🏛️ **CID Cell** | Institute project for MITS Gwalior | [Live](https://cidcell.mitsgwalior.in/) |
+| ⚙️ **GearGuard** | Ultimate vehicle maintenance tracker | [GitHub](https://github.com/KD2303/GearGuard-The-Ultimate-Maintenance-Tracker) |
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KD2303&theme=tokyonight&hide_border=true" width="48%" />
@@ -38,14 +42,29 @@
 
 ---
 
-## 🏅 Highlights
+## 🏅 Achievements & Roles
 
-- 🥇 **Winner** – Treasure Hunt, Aarunya Fest 2025
-- 🚀 **Finalist** – VibeState'25 Hackathon
-- ⭐ **Top 50** – Google Cloud Study Jams 2025
-- 📜 **CS50x & CS50P** certified (Harvard) | **IBM SkillsBuild AI/ML** Intern
+- 🥇 **Winner** – Treasure Hunt, Aarunya Fest 2025  
+- 🚀 **Finalist** – VibeState'25 Hackathon  
+- ⭐ **Top 50** – Google Cloud Study Jams 2025  
+- 💻 **Project Kernel** – NSoC (Nexus Spring of Code) 2026  
+- 🌍 **Contributor/Mentee** – GSSoC 2026 (Open Source & AI Agentic Tracks)  
+- 📜 **CS50x & CS50P** Certified (Harvard)  
+- 🤖 **IBM SkillsBuild AI/ML Intern**
+
+---
+
+## 💡 Currently Exploring
+
+- Full Stack Development  
+- AI Agents & Automation  
+- Competitive Programming  
+- 3D Web Experiences with Three.js  
 
 ---
 
 <p align="center"><i>"Always learning, always building."</i></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=KD2303&label=Profile+Views&color=0e75b6&style=flat"/></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KD2303&label=Profile+Views&color=0e75b6&style=flat"/>
+</p>
