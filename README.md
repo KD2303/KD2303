@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  B.Tech CS & Design @ MITS Gwalior &nbsp;|&nbsp; Python · JavaScript · React &nbsp;|&nbsp; 150+ LeetCode problems solved
+  B.Tech CS & Design @ MITS Gwalior &nbsp;|&nbsp; Python · JavaScript · React &nbsp;|&nbsp; 180+ LeetCode problems solved
 </p>
 
 <p align="center">
