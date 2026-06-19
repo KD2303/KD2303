@@ -23,6 +23,7 @@
 | Project | Description | Link |
 |:---:|:---:|:---:|
 | ⚔️ **AlgoFight** | Real-time competitive coding platform with Elo leaderboards | <a href="https://algo-fight.vercel.app/">Live</a> |
+| 🚚**CargoHub** | Logistics at Your Fingertips | <a href="https://cargo-hub1.vercel.app/">Live</a> |
 | 🗺️ **CBCT** | Visualizes codebases as interactive dependency maps | <a href="https://cbct-code-base-cartographic-tool-cl.vercel.app/">Live</a> |
 | 🛡️ **Guardian AI** | AI-powered security web app built & deployed at a hackathon | <a href="https://guardian-ai-one.vercel.app/">Live</a> |
 | 🤖 **IARIS** | AI-powered project/platform solution | <a href="https://iaris.vercel.app/">Live</a> |
