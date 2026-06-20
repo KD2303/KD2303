@@ -58,8 +58,7 @@
 ---
 
 ## 💡 Currently Exploring
-
-- Full Stack Development  
+  
 - AI Agents & Automation  
 - Competitive Programming  
 - 3D Web Experiences with Three.js  
